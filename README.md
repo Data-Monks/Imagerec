@@ -1,12 +1,12 @@
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/data-monks-imagerec-7l930fwq/lab)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Data-Monks/Imagerec/master)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
-https://hub.gke2.mybinder.org/user/data-monks-imagerec-7l930fwq/lab
+https://mybinder.org/v2/gh/Data-Monks/Imagerec/master
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
